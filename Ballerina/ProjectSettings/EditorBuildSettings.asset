@@ -14,4 +14,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/ModeSelection.unity
     guid: dc02b1ee5d728cc48a0956c3db58ea3e
+  - enabled: 1
+    path: Assets/Scenes/DanceHall.unity
+    guid: 4abbac0b422d1b846ace499ffe36864d
   m_configObjects: {}
